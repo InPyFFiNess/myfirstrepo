@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the main branch
+=======
+This is conflict branch
+>>>>>>> conflict
